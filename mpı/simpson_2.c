@@ -1,4 +1,4 @@
-Copyright 1991, 1996, 1999, 2000, 2007 Free Software Foundation, Inc.
+/*Copyright 1991, 1996, 1999, 2000, 2007 Free Software Foundation, Inc.
 
 This file is part of the GNU MP Library.
 
@@ -26,6 +26,7 @@ You should have received copies of the GNU General Public License and the
 GNU Lesser General Public License along with the GNU MP Library.  If not,
 see https://www.gnu.org/licenses/.
 
+*/
 
 #include <stdio.h>
 #include <math.h>
